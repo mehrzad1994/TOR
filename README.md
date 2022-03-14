@@ -129,14 +129,25 @@ This data is belong to January 2015 [source](https://en.wikipedia.org/wiki/Tor_%
 
 
 ### useful links
-[main website of TOR project](https://www.torproject.org/)
+
+ - [main website of TOR project](https://www.torproject.org/)
 you can easily download the TOR for your Windows, mac, Linux, Android operating systems from here, get information and donate to the project if you wish.
-[link to download the android version of TOR from google play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser&hl=en_CA&gl=US)
-since there is no official version of the TOR browser for IOS operating systems, IOS users could use this unofficial application which has been developed based on the TOR.
+
+ - [link to download the android version of TOR from google play](https://play.google.com/store/apps/details?id=org.torproject.torbrowser&hl=en_CA&gl=US)
+
+ - since there is no official version of the TOR browser for IOS operating systems, IOS users could use this unofficial application which has been developed based on the TOR.
 [link to download the onion browser for IOS users](https://apps.apple.com/us/app/onion-browser/id519296448)
-[the official twitter page of the TOR project](https://twitter.com/torproject?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-[the official linkedin page](https://www.linkedin.com/company/tor-project)
+
+ - [the official twitter page of the TOR project](https://twitter.com/torproject?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+ - [the official linkedin page](https://www.linkedin.com/company/tor-project)
+ 
 some useful video links to learn more about TOR
-[How to use Tor Browser](https://www.youtube.com/watch?v=yveTy-mf3u8)
-[ What is Tor and Should You Use It?](https://www.youtube.com/watch?v=6czcc1gZ7Ak)
-[What is Cybersecurity? Cybersecurity Threats, Methods, and Technology](https://youtu.be/w1d81Teltl0)
+
+ - [How to use Tor Browser](https://www.youtube.com/watch?v=yveTy-mf3u8)
+
+ - [ What is Tor and Should You Use It?](https://www.youtube.com/watch?v=6czcc1gZ7Ak)
+
+ - [What is Cybersecurity? Cybersecurity Threats, Methods, and Technology](https://youtu.be/w1d81Teltl0)
+ 
+
