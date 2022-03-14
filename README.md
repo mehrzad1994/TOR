@@ -62,7 +62,6 @@ The Tor Project is a non-profit organization that currently develops and maintai
 ## alternative search engin
 DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo does not show search results from content farms.It does not gather information about the users like their search history or cookies.
 [duckduckgo search engin](https://duckduckgo.com/)
-*********descripton
 
 
 ## How TOR works?
@@ -97,7 +96,8 @@ Breaches such as selling personal information and online credentials such as ema
 ## Hidden Wiki
 One of the best websites that is a good resource for both beginner and experienced users is Wiki Hidden. When buying from the Dark Web, we should only use encrypted money (digital currency). Most sellers on the Dark Web accept payment by credit card, but the buyer should never use a credit card or any other method. Instead of using bitcoin, it is recommended using digital currencies that are more privately secured. Some of the encrypted money used for the dark web which are safer than bitcoin are Zcash and Monero.[The hidden wiki](https://thehiddenwiki.org/).
 
-*********Onion websites:
+There is list of Onion websites on the hidden wiki that only could be accessed by The Onion Browser.
+Here are some examples of these websites:
 
 [http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 
