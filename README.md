@@ -97,7 +97,7 @@ Breaches such as selling personal information and online credentials such as ema
 When buying from the Dark Web, we should only use encrypted money (digital currency). Most sellers on the Dark Web accept payment by credit card, but the buyer should never use a credit card or any other method. Instead of using bitcoin, it is recommended using digital currencies that are more privately secured. Some of the encrypted money used for the dark web which are safer than bitcoin are Zcash and Monero.
 
 ## Hidden Wiki
-One of the best websites that is a good resource for both beginner and experienced users is the Hidden Wiki. Hidden wiki ss a stable, anti-censorship wiki that operates as one of the Tor services and can be edited anonymously by anyone. The main page of this wiki provides a list of links to other sites that use the dummy top-level domain with the .onion extension; These sites can only be accessed through the Tor or one of the Tor gateways. [source](https://en.wikipedia.org/wiki/The_Hidden_Wiki) [The hidden wiki](https://thehiddenwiki.org/).
+One of the best websites that is a good resource for both beginner and experienced users is the Hidden Wiki. Hidden wiki is a stable, anti-censorship wiki that operates as one of the Tor services and can be edited anonymously by anyone. The main page of this wiki provides a list of links to other sites that use the dummy top-level domain with the .onion extension; These sites can only be accessed through the Tor or one of the Tor gateways. [source](https://en.wikipedia.org/wiki/The_Hidden_Wiki) [The hidden wiki](https://thehiddenwiki.org/).
 
 There is list of Onion websites on the hidden wiki that only could be accessed by The Onion Browser.
 Here are some examples of these websites:
