@@ -33,6 +33,8 @@ The Tor Project is a non-profit organization that currently develops and maintai
 6.  Create a new identity.
 7. Use HTTPS.
 8.  Access.
+
+
 [source](https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous).
 
 ### Some important tips to use TOR
