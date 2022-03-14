@@ -16,7 +16,7 @@ Standing for The Onion Router, Tor offers multiple levels of protection to ensur
 
 Tor is designed to give all of the users the same identity. It's as if all of the people are wearing the same masks. It is the best tool to stay anonymous. Tor hides the location, relaying the traffic through three random places in the world and encrypting the traffic with a triple layer of encryption to be sure nobody has access to the tor circuit back to its origin.
 
-Tor isn't meant to fully remove tracking; rather, it's meant to make it more difficult for websites to trace a user's actions and data back to them. Data in tor cannot be meaningfully deciphered and utilized for some purposes, so we can consider it as a secure way for generating data. [source]([https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous](https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous)).
+Tor isn't meant to fully remove tracking; rather, it's meant to make it more difficult for websites to trace a user's actions and data back to them. Data in tor cannot be meaningfully deciphered and utilized for some purposes, so we can consider it as a secure way for generating data. [source]([https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous]).
 
 ## History
 
