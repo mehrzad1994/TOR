@@ -1,4 +1,4 @@
-# the TOR project
+# The TOR Project
 
  - **Introduction to Hacking**
 
@@ -21,26 +21,26 @@ Tor isn't meant to fully remove tracking; rather, it's meant to make it more dif
 
 The Tor Project is a non-profit organization that currently develops and maintains the Tor, while funding is often provided by the US, Sweden and some other sponsors. Tor is based on the idea of Onion Routing, developed by Paul Syverson, Micheal G Reed and David Goldschlag in US Naval Laboratories in the 1990s.The alpha version of The Onion Router, or TOR for short, was developed by Roger Dingledin and Nick Mathewson and released on September 20, 2002. Needless to say, the project continues to be funded by the Electronic Frontier Foundation, or EFF for short. [source](https://en.wikipedia.org/wiki/Tor_(network))
 
-### Global usage of TOR browser
+### Global Usage of TOR Browser
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/4/41/Geographies_of_Tor.png)
-## How to install and use TOR
+## How to Install and Use TOR
 
- 1. install and configure Tor Browser. Start by downloading and installing Tor Browser.
+1.  install and configure Tor Browser. Start by downloading and installing Tor Browser.
 2.  Get online with Tor.
 3.  Choose your security level.
 4.  Rethink your browsing habits.
 5.  Understand Tor circuits.
 6.  Create a new identity.
-7. Use HTTPS.
+7.  Use HTTPS.
 8.  Access.
 
 
 [source](https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous).
 
-### Some important tips to use TOR
+### Some Important Tips to Use TOR
 
  - Change the security level
- There are 3 security mode: Standard, Safer, Safest. by default it is set to Standard, but it is recommended to change it to safer or safest mode to disable Javascript. 
+ There are three security mode: Standard, Safer, Safest. By default, it is set to standard, but it is recommended to change it to safer or safest mode to disable Javascript. 
  -  Use noscript extention
  It helps you to choose what Javascript code is allowed to run manually. For each script to be run you need to move it to the trusted.
  You can add the noscript icon from customize in the main menu. 
@@ -56,11 +56,11 @@ The Tor Project is a non-profit organization that currently develops and maintai
   - Do not disclose any personal information
   Information likes location, hobbies, pets name, screenshots and etc.
   - Use end-to-end encryption
-  (if the bar next to the URL bar is green it mean you're good)
+  (if the bar next to the URL bar is green it means you're good)
  
 
 
-## alternative search engin
+## Alternative Search Engin
 DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo does not show search results from content farms.It does not gather information about the users like their search history or cookies.
 [duckduckgo search engin](https://duckduckgo.com/)
 
@@ -70,7 +70,7 @@ DuckDuckGo is an internet search engine that emphasizes protecting searchers' pr
 This figure shows the implementation of onion routing, which encrypts and then randomly bounces communications through a network of relays run by volunteers around the globe. These onion routers employ encryption in a multi-layered manner (hence the onion metaphor) to ensure perfect forward secrecy between relays, thereby providing users with anonymity in a network location. In this figure, Alice’s tor client uses three random places, relay the traffic and encrypt the traffic with a triple layer of encryption to be sure nobody has access to the tor circuit back to its origin. [source](https://en.wikipedia.org/wiki/Tor_%28network%29).
 
 
-## Dark web
+## Dark Web
 
 The term dark web first emerged in 2009; but, it is not known when the actual dark web first emerged. The dark web forms a small part of the deep web, but requires custom software in order to access its content. The deep web is broadly defined as anything that is not indexed by traditional search engines. Dark web or darknet websites can be accessed through Tor browser. Tor browsers provide users with encrypted entry points and pathways to the dark web, allowing them to remain anonymous in their searches and actions, hence, identities and locations of darknet users stay anonymous and cannot be tracked due to the layered encryption system.
 
@@ -107,7 +107,7 @@ Here are some examples of these websites:
 [http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
 
 [http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/)
-### web-based Onion services 
+### Web-Based Onion Services 
 
 |  Category| Percentage |
 |--|--|
@@ -137,7 +137,7 @@ Here are some examples of these websites:
 This data belongs to January 2015 [source](https://en.wikipedia.org/wiki/Tor_%28network%29#Onion_services).
 
 
-### useful links
+### Useful Links
 
  - [main website of TOR project](https://www.torproject.org/)
 you can easily download the TOR for your Windows, mac, Linux, Android operating systems from here, get information and donate to the project if you wish.
