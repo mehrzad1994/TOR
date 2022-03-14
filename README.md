@@ -1,8 +1,8 @@
-# The Onion Router( TOR) project
+# the TOR project
 Introduction to Hacking 
 Tools and method presentation notes
 March 2022
-Mehrzadd Khodashenas, Setareh Sheikholeslamzadeh
+Mehrzad Khodashenas, Setareh Sheikholeslamzadeh
 
 ## introduction
 ![enter image description here](https://cdn.mos.cms.futurecdn.net/JQ4z7cmWQW3mPsczWteUNQ-1024-80.jpg.webp)
@@ -20,11 +20,7 @@ The Tor Project is a non-profit organization that currently develops and maintai
 
 ### global usage of TOR browser
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/4/41/Geographies_of_Tor.png)
-## how TOR works?
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/How_Tor_Works_2.svg/1410px-How_Tor_Works_2.svg.png)
-
-
-## how to install and use TOR
+## How to install and use TOR
 
  1. install and configure Tor Browser. Start by downloading and installing Tor Browser.
 2.  Get online with Tor.
@@ -33,11 +29,95 @@ The Tor Project is a non-profit organization that currently develops and maintai
 5.  Understand Tor circuits.
 6.  Create a new identity.
 7. Use HTTPS.
-8.  Access .
+8.  Access.
 
-## dark web
+### Important tips to use TOR
+***************Safer and safest mode
+Javascript
+No script extension
+Customize -> no script icon
+For each script: move to trusted
+
+New identity
+
+Brush icon
+
+Clear browser data: history, cookies and cash
+
+
 ## Heading
 [duckduckgo search engin](https://duckduckgo.com/)
+*********descripton
+
+
+## How TOR works?
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/How_Tor_Works_2.svg/1410px-How_Tor_Works_2.svg.png)
+******description
+
+
+## Dark web
+
+The term dark web first emerged in 2009; but, it is not known when the actual dark web first emerged. The dark web forms a small part of the deep web, but requires custom software in order to access its content. The deep web is broadly defined as anything that is not indexed by traditional search engines. Dark web or darknet websites can be accessed through Tor browser. Tor browsers provide users with encrypted entry points and pathways to the dark web, allowing them to remain anonymous in their searches and actions, hence, identities and locations of darknet users stay anonymous and cannot be tracked due to the layered encryption system.
+
+Users' data is routed through a large number of intermediate servers using darknet encryption technology, which conceals users' identities and ensures anonymity. The transmitted information can be decrypted only by a subsequent node in the scheme, which leads to the exit node. The complicated system makes it almost impossible to reproduce the node path and decrypt the information layer by layer.[source](https://en.wikipedia.org/wiki/Dark_web).
+
+###  The Good, The Bad and The Ugly
+
+Unsurprisingly, the deep web is also home to criminality – but so too is the clear web. The dark web does not monopolize cybercrime. While the dark web is home to lots of crime, it also hosts many legitimate companies like New York Times and Facebook who offer Tor-based services, as well as generally benign content. The dark web is not equivalent to cybercrime.[source](https://www.digitalshadows.com/blog-and-research/dark-web-monitoring-the-good-the-bad-and-the-ugly/).
+
+On its good side, the dark web enables the communication of human rights activists and whistle-blowers around the world (it has facilitated freedom of expression in Iran and Egypt, and it has been used by Wikileaks and Edward Snowden, as well as by journalists and even officials). [source](https://www.diplomacy.edu/blog/dark-web-good-bad-and-ugly/).
+
+Many journalists, alternative news organizations, academics, and scholars have influenced the public's understanding of the darknet through their writing and speaking about it.
+
+Media coverage typically reports on the dark web in two ways; detailing the power and freedom of speech the dark web allows people to express, or more commonly reaffirms the illegality and fear of its contents, such as computer hackers. [source](https://en.wikipedia.org/wiki/Dark_web).
+
+On the other hand, the dark web also hosts markets of illegal goods (such as counterfeit products, drugs, and IDs) and financial crime services (such as money laundering and bank frauds).
+
+In addition, crypto-currencies like BitCoin (a decentralized peer-to-peer electronic system of payment), which have great potential for global markets, at the same time enable criminals to transfer money while avoiding the centralized banking system. Each step in a regular crime market between a seller and a buyer (communications and transactions, trust, payment and money flow, and logistics) can be anonymised, which makes it a hard task for law enforcement agencies (LEA) to combat dark markets.
+
+There is an ugly side to it as well: markets offering paedophilia content, hitman services, conventional and chemical weapons purchase, and illegal medical research.[source](https://www.diplomacy.edu/blog/dark-web-good-bad-and-ugly/).
+
+Breaches such as selling personal information and online credentials such as emails, IDs and passwords have lately become popular on the dark web. For example, a recent breach was about a hacker claimed to be selling millions of Twitter accounts. A Russian seller goes by the name Tessa88, claimed to have obtained the database, which includes email addresses (sometimes two per individual), usernames, and plain-text passwords, in an encrypted chat on Tuesday and selled the cache for 10 bitcoins, or about $5,820 at the time of writing. [source](https://www.zdnet.com/article/twitter-32-million-credentials-accounts-selling-online/)
+
+## Hidden Wiki
+One of the best websites that is a good resource for both beginner and experienced users is Wiki Hidden. When buying from the Dark Web, we should only use encrypted money (digital currency). Most sellers on the Dark Web accept payment by credit card, but the buyer should never use a credit card or any other method. Instead of using bitcoin, it is recommended using digital currencies that are more privately secured. Some of the encrypted money used for the dark web which are safer than bitcoin are Zcash and Monero.[The hidden wiki](https://thehiddenwiki.org/).
+
+*********Onion websites:
+
+[http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
+
+[http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
+
+[http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/)
+## web-based Onion services 
+
+|  Category| Percentage |
+|--|--|
+| Gambling | 0.4 |
+|Guns  | 1.4 |
+| Chat | 2.2 |
+| New( not yet indexed) | 2.2 |
+| Abuse | 2.2 |
+| Books | 2.5 |
+| Directory | 2.5 |
+| Blog | 2.75 |
+| Porn | 2.75 |
+| Hosting | 3.5 |
+| Hacking | 4.25 |
+| Search | 4.25 |
+| Anonymity | 4.5 |
+| Forum | 4.75 |
+| Counterfeit | 5.2 |
+| Whistleblower | 5.2 |
+| Wiki | 5.2 |
+| Mail | 5.7 |
+| Bitcoin | 6.2 |
+| Fraud | 9 |
+| Market | 9 |
+| Drugs | 15.4 |
+
+January 2015 [source](https://en.wikipedia.org/wiki/Tor_%28network%29#Onion_services).
+
 
 ### useful links
 [main website of TOR project](https://www.torproject.org/)
@@ -47,7 +127,7 @@ since there is no official version of the TOR browser for IOS operating systems,
 [link to download the onion browser for IOS users](https://apps.apple.com/us/app/onion-browser/id519296448)
 [the official twitter page of the TOR project](https://twitter.com/torproject?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 [the official linkedin page](https://www.linkedin.com/company/tor-project)
-
-
-
-### sources
+some useful video links to learn more about TOR
+[How to use Tor Browser](https://www.youtube.com/watch?v=yveTy-mf3u8)
+[ What is Tor and Should You Use It?](https://www.youtube.com/watch?v=6czcc1gZ7Ak)
+[What is Cybersecurity? Cybersecurity Threats, Methods, and Technology](https://youtu.be/w1d81Teltl0)
