@@ -16,8 +16,7 @@ Standing for The Onion Router, Tor offers multiple levels of protection to ensur
 
 Tor is designed to give all of the users the same identity. It's as if all of the people are wearing the same masks. It is the best tool to stay anonymous. Tor hides the location, relaying the traffic through three random places in the world and encrypting the traffic with a triple layer of encryption to be sure nobody has access to the tor circuit back to its origin.
 
-Tor isn't meant to fully remove tracking; rather, it's meant to make it more difficult for websites to trace a user's actions and data back to them. Data in tor cannot be meaningfully deciphered and utilized for some purposes, so we can consider it as a secure way for generating data. [source]([https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous]).
-
+Tor isn't meant to fully remove tracking; rather, it's meant to make it more difficult for websites to trace a user's actions and data back to them. Data in tor cannot be meaningfully deciphered and utilized for some purposes, so we can consider it as a secure way for generating data. [source](https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous).
 ## History
 
 The Tor Project is a non-profit organization that currently develops and maintains the Tor, while funding is often provided by the US, Sweden and some other sponsors. Tor is based on the idea of Onion Routing, developed by Paul Syverson, Micheal G Reed and David Goldschlag in US Naval Laboratories in the 1990s.The alpha version of The Onion Router, or TOR for short, was developed by Roger Dingledin and Nick Mathewson and released on September 20, 2002. Needless to say, the project continues to be funded by the Electronic Frontier Foundation, or EFF for short. [source](https://en.wikipedia.org/wiki/Tor_(network))
