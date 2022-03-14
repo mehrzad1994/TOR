@@ -1,13 +1,13 @@
 # the TOR project
-Introduction to Hacking 
-Tools and method presentation notes
-March 2022
-Mehrzad Khodashenas, Setareh Sheikholeslamzadeh
+**Introduction to Hacking**
+**Tools and method presentation notes**
+**March 2022**
+***Mehrzad Khodashenas, Setareh Sheikholeslamzadeh***
 
-## introduction
+## Introduction
 ![enter image description here](https://cdn.mos.cms.futurecdn.net/JQ4z7cmWQW3mPsczWteUNQ-1024-80.jpg.webp)
 
-If you want to keep your web browsing private, you can use the Incognito mode in Chrome, Private Browsing in Firefox, InPrivate mode in Microsoft Edge, and so on. While this will prevent other people who use your computer from seeing your browsing history, it doesn't prevent your ISP from monitoring the sites you are visiting. You might well want to – for any number of reasons – browse the internet completely anonymously, and this is precisely what the Tor Browser offers.
+If you want to keep your web browsing private, you can use the Incognito mode in Chrome, Private Browsing in Firefox, In Private mode in Microsoft Edge, and so on. While this will prevent other people who use your computer from seeing your browsing history, it doesn't prevent your ISP from monitoring the sites you are visiting. You might well want to – for any number of reasons – browse the internet completely anonymously, and this is precisely what the Tor Browser offers.
 Standing for The Onion Router, Tor offers multiple levels of protection to ensure that your online activities, location and identity are kept entirely private.
 
 Tor is designed to give all of the users the same identity. It's as if all of the people are wearing the same masks. It is the best tool to stay anonymous. Tor hides the location, relaying the traffic through three random places in the world and encrypting the traffic with a triple layer of encryption to be sure nobody has access to the tor circuit back to its origin.
@@ -18,7 +18,7 @@ Tor isn't meant to fully remove tracking; rather, it's meant to make it more dif
 
 The Tor Project is a non-profit organization that currently develops and maintains the Tor, while funding is often provided by the US, Sweden and some other sponsors. Tor is based on the idea of Onion Routing, developed by Paul Syverson, Micheal G Reed and David Goldschlag in US Naval Laboratories in the 1990s.The alpha version of The Onion Router, or TOR for short, was developed by Roger Dingledin and Nick Mathewson and released on September 20, 2002. Needless to say, the project continues to be funded by the Electronic Frontier Foundation, or EFF for short. [source](https://en.wikipedia.org/wiki/Tor_(network))
 
-### global usage of TOR browser
+### Global usage of TOR browser
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/4/41/Geographies_of_Tor.png)
 ## How to install and use TOR
 
@@ -31,18 +31,27 @@ The Tor Project is a non-profit organization that currently develops and maintai
 7. Use HTTPS.
 8.  Access.
 
-### Important tips to use TOR
-***************Safer and safest mode
-Javascript
-No script extension
-Customize -> no script icon
-For each script: move to trusted
+### Some important tips to use TOR
 
-New identity
-
-Brush icon
-
-Clear browser data: history, cookies and cash
+ - Change the security level
+ There are 3 security mode: Standard, Safer, Safest. by default it is set to Standard, but it is recommended to change it to safer or safest mode to disable Javascript. 
+ -  Use noscript extention
+ It helps you to choose what Javascript code is allowed to run manually. For each script to be run you need to move it to the trusted.
+ You can add the noscript icon from customize in the main menu. 
+ - Refresh the browser using brush icon
+ Refreshing will clear all the browser data including history, cookies and cash without restarting the browser.
+  - Use HTTPS everywhere add-in
+  This will force every website you visit to use encrypted connection HTTPS instead of non-secure HTTP protocol.
+  - Do not use personal accounts
+  if you wat to stay anonymous, do not use any account that contain your name, number, E-mail or any other personal information.
+  - Do not change any setting, install add-ins or plugins
+  - Never go full-screen resolution
+  It can identify your device
+  - Do not disclose any personal information
+  Information likes location, hobbies, pets name, screenshots and etc.
+  - Use end-to-end encryption
+  (if the bar next to the URL bar is green it mean you're good)
+ 
 
 
 ## Heading
@@ -52,7 +61,7 @@ Clear browser data: history, cookies and cash
 
 ## How TOR works?
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/How_Tor_Works_2.svg/1410px-How_Tor_Works_2.svg.png)
-******description
+This figure shows the implementation of onion routing, which encrypts and then randomly bounces communications through a network of relays run by volunteers around the globe. These onion routers employ encryption in a multi-layered manner (hence the onion metaphor) to ensure perfect forward secrecy between relays, thereby providing users with anonymity in a network location. In this figure, Alice’s tor client uses three random places, relay the traffic and encrypt the traffic with a triple layer of encryption to be sure nobody has access to the tor circuit back to its origin. [source](https://en.wikipedia.org/wiki/Tor_%28network%29).
 
 
 ## Dark web
@@ -89,7 +98,7 @@ One of the best websites that is a good resource for both beginner and experienc
 [http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
 
 [http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/)
-## web-based Onion services 
+### web-based Onion services 
 
 |  Category| Percentage |
 |--|--|
@@ -116,7 +125,7 @@ One of the best websites that is a good resource for both beginner and experienc
 | Market | 9 |
 | Drugs | 15.4 |
 
-January 2015 [source](https://en.wikipedia.org/wiki/Tor_%28network%29#Onion_services).
+This data is belong to January 2015 [source](https://en.wikipedia.org/wiki/Tor_%28network%29#Onion_services).
 
 
 ### useful links
