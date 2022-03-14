@@ -1,8 +1,12 @@
 # the TOR project
-**Introduction to Hacking**
-**Tools and method presentation notes**
-**March 2022**
-***Mehrzad Khodashenas, Setareh Sheikholeslamzadeh***
+
+ - **Introduction to Hacking**
+
+ - **Tools and method presentation notes**
+
+ - **March 2022**
+
+ - ***Mehrzad Khodashenas, Setareh Sheikholeslamzadeh***
 
 ## Introduction
 ![enter image description here](https://cdn.mos.cms.futurecdn.net/JQ4z7cmWQW3mPsczWteUNQ-1024-80.jpg.webp)
