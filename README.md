@@ -59,7 +59,8 @@ The Tor Project is a non-profit organization that currently develops and maintai
  
 
 
-## Heading
+## alternative search engin
+DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo does not show search results from content farms.It does not gather information about the users like their search history or cookies.
 [duckduckgo search engin](https://duckduckgo.com/)
 *********descripton
 
