@@ -37,7 +37,7 @@ The Tor Project is a non-profit organization that currently develops and maintai
 
 [source](https://www.techradar.com/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous).
 
-### Some Important Tips to Use TOR
+### Some Important Tips about Using TOR
 
  - Change the security level
  There are three security mode: Standard, Safer, Safest. By default, it is set to standard, but it is recommended to change it to safer or safest mode to disable Javascript. 
@@ -60,7 +60,7 @@ The Tor Project is a non-profit organization that currently develops and maintai
  
 
 
-## Alternative Search Engin
+## Alternative Search Engine
 DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo does not show search results from content farms.It does not gather information about the users like their search history or cookies.
 [duckduckgo search engin](https://duckduckgo.com/)
 
